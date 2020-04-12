@@ -17,3 +17,5 @@ var activeMembership = true // Swift infers this to be an Bool
 
 print(type(of: age))
 print(type(of: temperature))
+
+//How is Swift compiled? Is it machine code, bytecode, or interpreted? Swift is compiled to machine code and then run.
